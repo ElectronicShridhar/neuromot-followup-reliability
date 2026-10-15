@@ -90,7 +90,7 @@ Features are marked **Built / Mock / Planned** in the accompanying solution pres
 ## Team
 
 - **Leader:** Shridhar Sharma
-- **Members:** Pragya Singh, Pragati Chauhan, Zahbiya Husain, [5th member]
+- **Members:** Pragya Singh, Pragati Chauhan, Zahbiya Husain
 
 Madhav Institute of Technology and Science, Gwalior
 
